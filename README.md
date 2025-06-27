@@ -10,13 +10,13 @@
 
 <br>
 
-# Conversee - Currency Converter OCR & AR
+# ConverSee - Currency Converter OCR & AR
 
 <div align="center">
  <img src="app/src/main/ic_launcher-web.png" width="500" height="500">
 </div>
 
-Conversee adalah aplikasi Android berbasis Augmented Reality (AR) yang memungkinkan pengguna mengonversi harga mata uang secara instan hanya dengan mengarahkan kamera ke label harga. Aplikasi ini didesain untuk menghadirkan pengalaman visual yang modern, cepat, dan mudah dipahami.
+ConverSee adalah aplikasi Android berbasis Augmented Reality (AR) yang memungkinkan pengguna mengonversi harga mata uang secara instan hanya dengan mengarahkan kamera ke label harga. Aplikasi ini didesain untuk menghadirkan pengalaman visual yang modern, cepat, dan mudah dipahami.
 
 ---
 
